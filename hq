@@ -1,10 +1,12 @@
 # Apps installeer je zo:
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+# Paste the echo commands
+
 brew install mas
 
 # Fonts installeer je zo:
-brew install --cask font-sf-pro roboto
+brew install --cask font-sf-pro font-roboto
 
 # Normale apps installeer je zo:
 
