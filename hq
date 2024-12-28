@@ -26,7 +26,8 @@ rm -rf "$(brew --prefix)/var/homebrew/locks"
 
 mas install 409201541 409203825 409183694 472226235 1092006274
 
-
+# Maak Chrome default browser:
+open -a "Google Chrome" --new --args --make-default-browser
 
 # Dock Settings
 
