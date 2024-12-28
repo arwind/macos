@@ -8,7 +8,7 @@ brew install --cask font-sf-pro roboto
 
 # Normale apps installeer je zo:
 
-brew install alfred 1password discord slack google-chrome google-chrome@canary safari-technology-preview vlc macpar-deluxe arc downie qfinder-pro transmit permute firefox@nightly opera@developer --force
+brew install alfred 1password discord slack google-chrome google-chrome@canary safari-technology-preview vlc macpar-deluxe arc downie qfinder-pro transmit permute firefox@nightly --force
 
 # Als het vast zit:
 
