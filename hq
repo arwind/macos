@@ -79,7 +79,7 @@ defaults write -g AppleWindowTabbingMode -string always
 defaults write "com.apple.controlcenter" "NSStatusItem Visible Bluetooth" -bool true
 defaults write "com.apple.controlcenter" "NSStatusItem Visible Sound" -bool true
 defaults -currentHost write com.apple.Spotlight MenuItemHidden -int 1
-defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
+defaults write com.apple.finder ShowPathbar -bool true
 defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 defaults write com.apple.finder ShowStatusBar -boolean true
 defaults write NSGlobalDomain AppleShowAllExtensions -boolean true
