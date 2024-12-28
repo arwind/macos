@@ -3,6 +3,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 # Paste the echo commands
 
+sudo softwareupdate --install-rosetta
 brew install mas
 
 # Fonts installeer je zo:
