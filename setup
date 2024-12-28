@@ -30,7 +30,7 @@ mas install 409201541 409203825 409183694 472226235 694633015 1092006274 8992476
 # Nieuwe apps toevoegen aan Dock: 
 defaults export com.apple.dock ~/Desktop/dock-settings-update.plist
 # Plist openen in Visual Code Studio
-# App opzoeken (<dict> tot </dict>
+# App opzoeken <dict> tot </dict>
 # Selecteer Tab
 # Command-Shift-L
 # Backspace
