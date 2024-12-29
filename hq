@@ -11,7 +11,7 @@ brew install --cask font-sf-pro font-roboto
 
 # Normale apps installeer je zo:
 
-brew install alfred 1password slack google-chrome google-chrome@canary vlc macpar-deluxe downie qfinder-pro transmit permute --force
+brew install alfred 1password slack google-chrome google-chrome@canary vlc macpar-deluxe downie qfinder-pro transmit permute zerotier-one --force
 
 # Als het vast zit:
 
