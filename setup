@@ -1,4 +1,4 @@
-### Apps installeer je zo:
+# Apps installeer je zo:
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 # Paste the echo commands
