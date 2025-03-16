@@ -34,7 +34,7 @@ mas install 409201541 409203825 409183694 472226235 694633015 1092006274 8992476
 defaults export com.apple.dock ~/Desktop/dock-settings-update.plist
 # Plist openen in Visual Code Studio
 # App opzoeken <dict> tot </dict>
-# Selecteer Tab
+# Selecteer Tab met muis
 # Command-Shift-L
 # Backspace
 # Backspace 2de keer
